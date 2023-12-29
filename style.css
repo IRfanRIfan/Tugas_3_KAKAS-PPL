@@ -21,3 +21,8 @@ header {
   margin-left: 650px;
   padding: 10px;
 }
+#profile-image {
+  width: 100%;
+
+  height: auto;
+}
