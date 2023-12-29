@@ -12,7 +12,6 @@ header {
   color: white;
 }
 
-
 #profile-container {
   max-width: 200px;
   margin: 80px auto;
@@ -29,13 +28,12 @@ header {
 }
 #profile-name {
   text-align: center;
+}
 
-#footer {
+footer {
   background-color: burlywood;
   padding: 20px;
   text-align: center;
   font-size: 24px;
   color: white;
-
-
 }
