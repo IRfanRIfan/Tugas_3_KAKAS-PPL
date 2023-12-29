@@ -26,3 +26,6 @@ header {
 
   height: auto;
 }
+#profile-name {
+  text-align: center;
+}
